@@ -1,4 +1,4 @@
 # Test STAC repository
 
-a
+Repository of test STAC catalogs.
 

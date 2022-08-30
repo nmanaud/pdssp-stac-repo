@@ -2,7 +2,9 @@
   "type": "Catalog",
   "id": "test-catalog",
   "stac_version": "1.0.0",
+  "title": "Test STAC catalog.",
   "description": "Test STAC catalog.",
+  "planet": "mars",
   "links": [
     {
       "rel": "root",
