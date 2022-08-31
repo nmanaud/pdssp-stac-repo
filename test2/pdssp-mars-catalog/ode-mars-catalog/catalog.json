@@ -8,7 +8,7 @@
       "rel": "root",
       "href": "../../catalog.json",
       "type": "application/json",
-      "title": "Test PDSSP catalog"
+      "title": "PDSSP Catalog (test)"
     },
     {
       "rel": "child",
@@ -20,10 +20,10 @@
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "Test PDSSP catalog"
+      "title": "PDSSP Mars Catalog (test)"
     }
   ],
   "stac_extensions": [],
   "planet": "mars",
-  "title": "Test ODE Mars STAC catalog"
+  "title": "ODE Mars STAC catalog (test)"
 }

@@ -8,15 +8,15 @@
       "rel": "root",
       "href": "./catalog.json",
       "type": "application/json",
-      "title": "Test PDSSP catalog"
+      "title": "PDSSP Catalog (test)"
     },
     {
       "rel": "child",
       "href": "./pdssp-mars-catalog/catalog.json",
       "type": "application/json",
-      "title": "Test PDSSP catalog"
+      "title": "PDSSP Mars Catalog (test)"
     }
   ],
   "stac_extensions": [],
-  "title": "Test PDSSP catalog"
+  "title": "PDSSP Catalog (test)"
 }
