@@ -1,20 +1,14 @@
 {
   "type": "Catalog",
-  "id": "pdssp-mars-catalog",
+  "id": "pdssp-moon-catalog",
   "stac_version": "1.0.0",
-  "description": "This is test PDSSP Mars STAC catalog.",
+  "description": "This is test PDSSP Moon STAC catalog.",
   "links": [
     {
       "rel": "root",
       "href": "../catalog.json",
       "type": "application/json",
       "title": "PDSSP Catalog"
-    },
-    {
-      "rel": "child",
-      "href": "./ode-mars-catalog/catalog.json",
-      "type": "application/json",
-      "title": "PDS ODE Mars data products"
     },
     {
       "rel": "parent",
@@ -24,6 +18,6 @@
     }
   ],
   "stac_extensions": [],
-  "planet": "mars",
-  "title": "Mars data"
+  "planet": "moon",
+  "title": "Moon data"
 }

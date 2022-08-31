@@ -3,7 +3,7 @@
   "stac_version": "1.0.0",
   "id": "ESP_012649_1770_COLOR",
   "properties": {
-    "datetime": "2022-08-31T10:32:14.204907Z"
+    "datetime": "2022-08-31T10:46:23.429757Z"
   },
   "geometry": "{\"type\": \"Polygon\", \"coordinates\": [[[-19.177, -3.1847], [-19.196, -3.1869], [-19.212, -3.0505], [-19.194, -3.0482], [-19.177, -3.1847]]]}",
   "links": [
@@ -11,7 +11,7 @@
       "rel": "root",
       "href": "../../../../catalog.json",
       "type": "application/json",
-      "title": "PDSSP Catalog (test)"
+      "title": "PDSSP Catalog"
     },
     {
       "rel": "collection",

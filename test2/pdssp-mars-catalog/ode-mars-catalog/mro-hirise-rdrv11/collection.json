@@ -8,7 +8,7 @@
       "rel": "root",
       "href": "../../../catalog.json",
       "type": "application/json",
-      "title": "PDSSP Catalog (test)"
+      "title": "PDSSP Catalog"
     },
     {
       "rel": "item",
@@ -514,7 +514,7 @@
       "rel": "parent",
       "href": "../catalog.json",
       "type": "application/json",
-      "title": "ODE Mars STAC catalog (test)"
+      "title": "PDS ODE Mars data products"
     }
   ],
   "stac_extensions": [],
@@ -533,8 +533,8 @@
     "temporal": {
       "interval": [
         [
-          "2022-08-31T10:32:14.170864Z",
-          "2022-08-31T10:32:14.205977Z"
+          "2022-08-31T10:46:23.396602Z",
+          "2022-08-31T10:46:23.431079Z"
         ]
       ]
     }

@@ -8,15 +8,27 @@
       "rel": "root",
       "href": "./catalog.json",
       "type": "application/json",
-      "title": "PDSSP Catalog (test)"
+      "title": "PDSSP Catalog"
     },
     {
       "rel": "child",
       "href": "./pdssp-mars-catalog/catalog.json",
       "type": "application/json",
-      "title": "PDSSP Mars Catalog (test)"
+      "title": "Mars data"
+    },
+    {
+      "rel": "child",
+      "href": "./pdssp-moon-catalog/catalog.json",
+      "type": "application/json",
+      "title": "Moon data"
+    },
+    {
+      "rel": "child",
+      "href": "./pdssp-titan-catalog/catalog.json",
+      "type": "application/json",
+      "title": "Titan data"
     }
   ],
   "stac_extensions": [],
-  "title": "PDSSP Catalog (test)"
+  "title": "PDSSP Catalog"
 }
