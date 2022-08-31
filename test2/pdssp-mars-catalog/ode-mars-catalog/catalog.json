@@ -3,6 +3,9 @@
   "id": "ode-mars-catalog",
   "stac_version": "1.0.0",
   "description": "This a test Mars STAC catalog containing the \"IIPT\" data products collections available from the PDS ODE API.",
+  "ssys:targets": [
+      "Mars"
+    ],
   "links": [
     {
       "rel": "root",
