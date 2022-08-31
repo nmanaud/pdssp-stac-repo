@@ -1,0 +1,29 @@
+{
+  "type": "Catalog",
+  "id": "pdssp-mars-catalog",
+  "stac_version": "1.0.0",
+  "description": "This is test PDSSP",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Test PDSSP catalog"
+    },
+    {
+      "rel": "child",
+      "href": "./ode-mars-catalog/catalog.json",
+      "type": "application/json",
+      "title": "Test ODE Mars STAC catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Test PDSSP catalog"
+    }
+  ],
+  "stac_extensions": [],
+  "planet": "mars",
+  "title": "Test PDSSP catalog"
+}

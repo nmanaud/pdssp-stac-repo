@@ -1,0 +1,29 @@
+{
+  "type": "Catalog",
+  "id": "ode-mars-catalog",
+  "stac_version": "1.0.0",
+  "description": "This a test Mars STAC catalog containing the \"IIPT\" data products collections available from the PDS ODE API.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Test PDSSP catalog"
+    },
+    {
+      "rel": "child",
+      "href": "./mro-hirise-rdrv11/collection.json",
+      "type": "application/json",
+      "title": "MRO HIRISE Reduced Data Record with Embedded Map Projection (RDRV11)"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Test PDSSP catalog"
+    }
+  ],
+  "stac_extensions": [],
+  "planet": "mars",
+  "title": "Test ODE Mars STAC catalog"
+}

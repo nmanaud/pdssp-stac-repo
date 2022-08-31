@@ -1,0 +1,165 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "ESP_012609_1130_RED",
+  "properties": {
+    "datetime": "2022-08-31T10:18:28.689079Z"
+  },
+  "geometry": "{\"type\": \"Polygon\", \"coordinates\": [[[4.0805, -66.7465], [3.866, -66.7588], [3.7144, -66.3371], [3.9247, -66.325], [4.0805, -66.7465]]]}",
+  "links": [
+    {
+      "rel": "root",
+      "href": null,
+      "type": "application/json",
+      "title": "Test PDSSP catalog"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "MRO HIRISE Reduced Data Record with Embedded Map Projection (RDRV11)"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "MRO HIRISE Reduced Data Record with Embedded Map Projection (RDRV11)"
+    }
+  ],
+  "assets": {
+    "DSMAP.CAT": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/CATALOG/DSMAP.CAT",
+      "type": "",
+      "title": "DSMAP.CAT",
+      "description": "MAP PROJECTION FILE",
+      "roles": [
+        "Referenced"
+      ]
+    },
+    "ESP_012609_1130_RED.ABROWSE.JPG": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_012600_012699/ESP_012609_1130/ESP_012609_1130_RED.abrowse.jpg",
+      "type": "image/jpeg",
+      "title": "ESP_012609_1130_RED.ABROWSE.JPG",
+      "description": "ANNOTATED BROWSE",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "ESP_012609_1130_RED.BROWSE.JPG": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_012600_012699/ESP_012609_1130/ESP_012609_1130_RED.browse.jpg",
+      "type": "image/jpeg",
+      "title": "ESP_012609_1130_RED.BROWSE.JPG",
+      "description": "BROWSE",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "ESP_012609_1130_RED.JP2": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/RDR/ESP/ORB_012600_012699/ESP_012609_1130/ESP_012609_1130_RED.JP2",
+      "type": "image/jp2",
+      "title": "ESP_012609_1130_RED.JP2",
+      "description": "PRODUCT DATA FILE",
+      "roles": [
+        "data"
+      ]
+    },
+    "ESP_012609_1130_RED.LBL": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/RDR/ESP/ORB_012600_012699/ESP_012609_1130/ESP_012609_1130_RED.LBL",
+      "type": "text/plain",
+      "title": "ESP_012609_1130_RED.LBL",
+      "description": "PRODUCT LABEL FILE",
+      "roles": [
+        "data"
+      ]
+    },
+    "ESP_012609_1130_RED.NOMAP.BROWSE.JPG": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_012600_012699/ESP_012609_1130/ESP_012609_1130_RED.NOMAP.browse.jpg",
+      "type": "image/jpeg",
+      "title": "ESP_012609_1130_RED.NOMAP.BROWSE.JPG",
+      "description": "GREYSCALE BROWSE",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "ESP_012609_1130_RED.NOMAP.JP2": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_012600_012699/ESP_012609_1130/ESP_012609_1130_RED.NOMAP.JP2",
+      "type": "image/jp2",
+      "title": "ESP_012609_1130_RED.NOMAP.JP2",
+      "description": "GREYSCALE JP2",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "ESP_012609_1130_RED.NOMAP.THUMB.JPG": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_012600_012699/ESP_012609_1130/ESP_012609_1130_RED.NOMAP.thumb.jpg",
+      "type": "image/jpeg",
+      "title": "ESP_012609_1130_RED.NOMAP.THUMB.JPG",
+      "description": "GREYSCALE THUMBNAIL",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "ESP_012609_1130_RED.QLOOK.JP2": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_012600_012699/ESP_012609_1130/ESP_012609_1130_RED.QLOOK.JP2",
+      "type": "image/jp2",
+      "title": "ESP_012609_1130_RED.QLOOK.JP2",
+      "description": "QUICKLOOK JP2",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "ESP_012609_1130_RED.THUMB.JPG": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_012600_012699/ESP_012609_1130/ESP_012609_1130_RED.thumb.jpg",
+      "type": "image/jpeg",
+      "title": "ESP_012609_1130_RED.THUMB.JPG",
+      "description": "THUMBNAIL",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "ESP_012609_1130_RED_LBL.KML": {
+      "href": "https://ode.rsl.wustl.edu/mars/datafile/kmlfiles/mro-m-hirise-3-rdr-v11/mrohr_0001/rdr/esp/orb_012600_012699/esp_012609_1130/esp_012609_1130_red_lbl.kml",
+      "type": "",
+      "title": "ESP_012609_1130_RED_LBL.KML",
+      "description": "PRODUCT KML FILE <A HREF=\"PAGEHELP/CONTENT/FREQUENTLY_ASKED_QUESTIONS/PRODUCT_FOOTPRINTS.HTM\" TARGET=\"_BLANK\">HELP</A>",
+      "roles": [
+        "Derived"
+      ]
+    },
+    "ESP_012609_1130_RED_LBL.TAR.GZ": {
+      "href": "https://ode.rsl.wustl.edu/mars/datafile/shapefiles/mro-m-hirise-3-rdr-v11/mrohr_0001/rdr/esp/orb_012600_012699/esp_012609_1130/esp_012609_1130_red_lbl.tar.gz",
+      "type": "",
+      "title": "ESP_012609_1130_RED_LBL.TAR.GZ",
+      "description": "PRODUCT FOOTPRINT SHAPEFILES (TAR.GZ) <A HREF=\"PAGEHELP/CONTENT/FREQUENTLY_ASKED_QUESTIONS/PRODUCT_FOOTPRINTS.HTM\" TARGET=\"_BLANK\">HELP</A>",
+      "roles": [
+        "Derived"
+      ]
+    },
+    "ESP_012609_1130_RED_LBL.ZIP": {
+      "href": "https://ode.rsl.wustl.edu/mars/datafile/shapefiles/mro-m-hirise-3-rdr-v11/mrohr_0001/rdr/esp/orb_012600_012699/esp_012609_1130/esp_012609_1130_red_lbl.zip",
+      "type": "",
+      "title": "ESP_012609_1130_RED_LBL.ZIP",
+      "description": "PRODUCT FOOTPRINT SHAPEFILES (ZIP) <A HREF=\"PAGEHELP/CONTENT/FREQUENTLY_ASKED_QUESTIONS/PRODUCT_FOOTPRINTS.HTM\" TARGET=\"_BLANK\">HELP</A>",
+      "roles": [
+        "Derived"
+      ]
+    },
+    "JP2INFO.TXT": {
+      "href": "https://hirise.lpl.arizona.edu/PDS/DOCUMENT/JP2INFO.TXT",
+      "type": "",
+      "title": "JP2INFO.TXT",
+      "description": "DESCRIPTION FILE",
+      "roles": [
+        "Referenced"
+      ]
+    }
+  },
+  "bbox": [
+    3.7144,
+    -66.7588,
+    4.0805,
+    -66.325
+  ],
+  "stac_extensions": [],
+  "collection": "mro-hirise-rdrv11"
+}

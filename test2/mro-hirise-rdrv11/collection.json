@@ -1,0 +1,543 @@
+{
+  "type": "Collection",
+  "id": "mro-hirise-rdrv11",
+  "stac_version": "1.0.0",
+  "description": "This collection contains MRO HIRISE Reduced Data Record with Embedded Map Projection (RDRV11) data products available from the PDS ODE API.",
+  "links": [
+    {
+      "rel": "root",
+      "href": null,
+      "type": "application/json",
+      "title": "Test PDSSP catalog"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012600_1655_RED/ESP_012600_1655_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012600_2080_COLOR/ESP_012600_2080_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012600_2080_RED/ESP_012600_2080_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012601_0930_COLOR/ESP_012601_0930_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012601_0930_RED/ESP_012601_0930_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012601_1400_COLOR/ESP_012601_1400_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012601_1400_RED/ESP_012601_1400_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012602_1415_COLOR/ESP_012602_1415_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012602_1415_RED/ESP_012602_1415_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012602_2265_COLOR/ESP_012602_2265_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012602_2265_RED/ESP_012602_2265_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012603_1300_COLOR/ESP_012603_1300_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012603_1300_RED/ESP_012603_1300_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012604_0965_COLOR/ESP_012604_0965_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012604_0965_RED/ESP_012604_0965_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012604_1450_COLOR/ESP_012604_1450_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012604_1450_RED/ESP_012604_1450_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012605_1685_COLOR/ESP_012605_1685_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012605_1685_RED/ESP_012605_1685_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012606_1510_RED/ESP_012606_1510_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012607_0980_COLOR/ESP_012607_0980_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012607_0980_RED/ESP_012607_0980_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012607_1545_COLOR/ESP_012607_1545_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012607_1545_RED/ESP_012607_1545_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012609_1130_RED/ESP_012609_1130_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012609_1570_COLOR/ESP_012609_1570_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012609_1570_RED/ESP_012609_1570_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012610_1250_COLOR/ESP_012610_1250_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012610_1250_RED/ESP_012610_1250_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012611_1650_COLOR/ESP_012611_1650_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012611_1650_RED/ESP_012611_1650_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012611_2170_COLOR/ESP_012611_2170_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012611_2170_RED/ESP_012611_2170_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012612_1940_COLOR/ESP_012612_1940_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012612_1940_RED/ESP_012612_1940_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012614_1220_COLOR/ESP_012614_1220_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012614_1220_RED/ESP_012614_1220_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012616_1800_COLOR/ESP_012616_1800_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012616_1800_RED/ESP_012616_1800_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012618_1090_RED/ESP_012618_1090_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012619_1220_RED/ESP_012619_1220_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012620_0975_COLOR/ESP_012620_0975_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012620_0975_RED/ESP_012620_0975_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012620_1540_COLOR/ESP_012620_1540_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012620_1540_RED/ESP_012620_1540_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012622_1905_COLOR/ESP_012622_1905_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012622_1905_RED/ESP_012622_1905_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012623_1170_RED/ESP_012623_1170_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012624_1440_COLOR/ESP_012624_1440_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012624_1440_RED/ESP_012624_1440_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012625_1720_COLOR/ESP_012625_1720_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012625_1720_RED/ESP_012625_1720_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012627_1245_COLOR/ESP_012627_1245_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012627_1245_RED/ESP_012627_1245_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012627_1975_COLOR/ESP_012627_1975_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012627_1975_RED/ESP_012627_1975_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012628_1835_COLOR/ESP_012628_1835_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012628_1835_RED/ESP_012628_1835_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012630_1840_COLOR/ESP_012630_1840_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012630_1840_RED/ESP_012630_1840_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012631_1555_COLOR/ESP_012631_1555_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012631_1555_RED/ESP_012631_1555_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012633_0930_COLOR/ESP_012633_0930_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012633_0930_RED/ESP_012633_0930_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012633_1610_COLOR/ESP_012633_1610_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012633_1610_RED/ESP_012633_1610_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012634_0930_COLOR/ESP_012634_0930_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012634_0930_RED/ESP_012634_0930_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012636_1490_COLOR/ESP_012636_1490_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012636_1490_RED/ESP_012636_1490_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012637_0935_COLOR/ESP_012637_0935_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012637_0935_RED/ESP_012637_0935_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012637_1400_COLOR/ESP_012637_1400_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012637_1400_RED/ESP_012637_1400_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012638_1700_COLOR/ESP_012638_1700_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012638_1700_RED/ESP_012638_1700_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012639_1990_COLOR/ESP_012639_1990_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012639_1990_RED/ESP_012639_1990_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012640_1415_COLOR/ESP_012640_1415_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012640_1415_RED/ESP_012640_1415_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012642_1400_COLOR/ESP_012642_1400_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012642_1400_RED/ESP_012642_1400_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012642_1895_COLOR/ESP_012642_1895_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012642_1895_RED/ESP_012642_1895_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012643_0945_COLOR/ESP_012643_0945_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012643_0945_RED/ESP_012643_0945_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012643_1825_COLOR/ESP_012643_1825_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012643_1825_RED/ESP_012643_1825_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012644_1565_COLOR/ESP_012644_1565_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012644_1565_RED/ESP_012644_1565_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012647_0980_COLOR/ESP_012647_0980_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012647_0980_RED/ESP_012647_0980_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012648_0930_COLOR/ESP_012648_0930_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012648_0930_RED/ESP_012648_0930_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012648_1815_COLOR/ESP_012648_1815_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012648_1815_RED/ESP_012648_1815_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012649_1770_COLOR/ESP_012649_1770_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012649_1770_RED/ESP_012649_1770_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012650_1780_COLOR/ESP_012650_1780_COLOR.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "item",
+      "href": "./ESP_012650_1780_RED/ESP_012650_1780_RED.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Test ODE Mars STAC catalog"
+    }
+  ],
+  "stac_extensions": [],
+  "title": "MRO HIRISE Reduced Data Record with Embedded Map Projection (RDRV11)",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -179.454,
+          -87.1313,
+          177.553,
+          46.4136
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2022-08-31T10:18:28.679554Z",
+          "2022-08-31T10:18:28.717147Z"
+        ]
+      ]
+    }
+  },
+  "license": "CC-BY-SA-4.0"
+}
