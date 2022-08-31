@@ -23,6 +23,14 @@
       "title": "PDSSP Catalog (test)"
     }
   ],
+  "assets": {
+      "thumbnail": {
+         "href": "https://cnes.fr/fr/la-planete-mars",
+         "title": "Thumbnail",
+         "type": "image/png",
+         "roles": ["thumbnail"]
+      }
+   },
   "stac_extensions": [],
   "planet": "mars",
   "title": "PDSSP Mars Catalog (test)"
