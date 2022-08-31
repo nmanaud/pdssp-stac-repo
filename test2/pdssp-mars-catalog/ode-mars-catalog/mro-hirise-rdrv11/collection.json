@@ -3,6 +3,9 @@
   "id": "mro-hirise-rdrv11",
   "stac_version": "1.0.0",
   "description": "This collection contains MRO HIRISE Reduced Data Record with Embedded Map Projection (RDRV11) data products available from the PDS ODE API.",
+  "ssys:targets": [
+      "Mars"
+    ],
   "links": [
     {
       "rel": "root",
@@ -517,7 +520,9 @@
       "title": "PDS ODE Mars data products"
     }
   ],
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://raw.githubusercontent.com/thareUSGS/ssys/main/json-schema/schema.json"
+  ],
   "title": "MRO HIRISE Reduced Data Record with Embedded Map Projection (RDRV11)",
   "extent": {
     "spatial": {

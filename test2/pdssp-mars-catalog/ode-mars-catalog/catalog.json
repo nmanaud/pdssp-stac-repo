@@ -26,7 +26,9 @@
       "title": "Mars data"
     }
   ],
-  "stac_extensions": [],
+  "stac_extensions": [
+    "https://raw.githubusercontent.com/thareUSGS/ssys/main/json-schema/schema.json"
+  ],
   "planet": "mars",
   "title": "PDS ODE Mars data products"
 }

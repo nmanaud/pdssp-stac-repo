@@ -3,6 +3,9 @@
   "id": "pdssp-mars-catalog",
   "stac_version": "1.0.0",
   "description": "This is test PDSSP Mars STAC catalog.",
+  "ssys:targets": [
+      "Mars"
+    ],
   "links": [
     {
       "rel": "root",
@@ -25,7 +28,7 @@
   ],
   "stac_extensions": [
     "https://raw.githubusercontent.com/thareUSGS/ssys/main/json-schema/schema.json"
-  ]
+  ],
   "planet": "mars",
   "title": "Mars data"
 }
