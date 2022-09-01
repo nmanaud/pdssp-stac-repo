@@ -1,0 +1,34 @@
+{
+  "type": "Catalog",
+  "id": "pdssp-catalog",
+  "stac_version": "1.0.0",
+  "description": "This is a top-level test PDSSP catalog (\"meta-catalog\") containing the complete STAC collections of planetary surface data products curated by French research laboratories.",
+  "links": [
+    {
+      "rel": "root",
+      "href": "./catalog.json",
+      "type": "application/json",
+      "title": "PDSSP Catalog"
+    },
+    {
+      "rel": "child",
+      "href": "./pdssp-mars-catalog/catalog.json",
+      "type": "application/json",
+      "title": "Mars data"
+    },
+    {
+      "rel": "child",
+      "href": "./pdssp-moon-catalog/catalog.json",
+      "type": "application/json",
+      "title": "Moon data"
+    },
+    {
+      "rel": "child",
+      "href": "./pdssp-titan-catalog/catalog.json",
+      "type": "application/json",
+      "title": "Titan data"
+    }
+  ],
+  "stac_extensions": [],
+  "title": "PDSSP Catalog"
+}
